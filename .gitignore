@@ -3,7 +3,6 @@
 !.eslintignore
 !.npmignore
 
-/dist
 /node_modules
 /selenium
 /docs/_site
@@ -21,4 +20,4 @@ ui/*.js
 test/random.js
 
 core.js
-quill.js
+
