@@ -121,7 +121,7 @@ class List extends Container {
   }
 }
 List.blotName = 'list';
-List.scope = Parchment.Scope.BLOCK_BLOT;
+List.scope = Parchment.Scope.BLOCK;
 List.tagName = ['OL', 'UL'];
 List.defaultChild = 'list-item';
 List.allowedChildren = [ListItem];
